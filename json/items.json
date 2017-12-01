@@ -1,9 +1,9 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "BioHazard Sound Mod",
+        "description": "This is an audio mod that utilizes different sound processing libs and drivers from various OEMs, combined all together, and the result is a very deep modification on how Android processes Audio.",
+        "image": "images/biohazard.png",
+        "link": "https://forum.xda-developers.com/android/software/sound-mod-biohazard-android-infected-t3373888/"
 	},
     {
         "name": "Project 2",
