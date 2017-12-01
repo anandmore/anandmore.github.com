@@ -1,9 +1,9 @@
 [
     {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "name": "Facebook",
+        "color": "#3b5998",
+        "icon": "facebook-box",
+        "url": "https://www.facebook.com/anand.more.3382"
 	},
     {
         "name": "Link",
