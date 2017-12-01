@@ -18,9 +18,9 @@
         "url": "https://twitter.com/iamanandmore"
 	},
     {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "name": "Github",
+        "color": "#000000",
+        "icon": "github",
+        "url": "https://github.com/anandmore"
 	}
 ]
