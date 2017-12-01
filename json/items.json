@@ -2,13 +2,13 @@
     {
         "name": "BioHazard Sound Mod",
         "description": "This is an audio mod that utilizes different sound processing libs and drivers from various OEMs, combined all together, and the result is a very deep modification on how Android processes Audio.",
-        "image": "images/biohazard.png",
+        "image": "images/biohazard.jpg",
         "link": "https://forum.xda-developers.com/android/software/sound-mod-biohazard-android-infected-t3373888/"
 	},
     {
         "name": "Project-X ROM",
         "description": "Project-X is made for Music geeks like me, its main focus is stability and Audio. It is Based off latest firmware currently, and will always be using the most up to date firmware base",
-        "image": "images/projectx.png",
+        "image": "images/projectx.jpg",
         "link": "https://forum.xda-developers.com/redmi-2/development/rom-project-x-audiophile-aroma-t3472177/"
 	}
 ]
