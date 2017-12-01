@@ -17,6 +17,12 @@
         "icon": "twitter",
         "url": "https://twitter.com/iamanandmore"
 	},
+	{
+        "name": "XDA",
+        "color": "#ffaf32",
+        "icon": "xda",
+        "url": "https://forum.xda-developers.com/member.php?u=7109851"
+	},
     {
         "name": "Github",
         "color": "#000000",
