@@ -15,18 +15,24 @@
         "name": "Twitter",
         "color": "#0084b4",
         "icon": "twitter",
-        "url": "https://twitter.com/iamanandmore"
+        "url": "https://twitter.com/iamanandmore/"
+	},
+	
+        "name": "YouTube",
+        "color": "#cc181e",
+        "icon": "youtube-play",
+        "url": "https://www.youtube.com/anandmoredope/"
 	},
 	{
         "name": "XDA",
         "color": "#ffaf32",
         "icon": "xda",
-        "url": "https://forum.xda-developers.com/member.php?u=7109851"
+        "url": "https://forum.xda-developers.com/member.php?u=7109851/"
 	},
     {
         "name": "Github",
         "color": "#000000",
         "icon": "github-circle",
-        "url": "https://github.com/anandmore"
+        "url": "https://github.com/anandmore/"
 	}
 ]
