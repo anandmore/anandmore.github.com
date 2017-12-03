@@ -1,4 +1,4 @@
-# vikramtiwari.github.io
+# www.iamanandmore.tk
 
 Github repo for Anand More's Website
 
