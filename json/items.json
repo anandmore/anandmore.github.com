@@ -1,5 +1,11 @@
 [
     {
+        "name": "TechnoMIT-2K18",
+        "description": "Website for TechnoMIT-2K18, a state level event, annual technical festival organized by Computer Science and engineering department of Maharashtra Institute of Technology, Aurangabad.",
+        "image": "images/technomit.png",
+        "link": "https://anandmore.github.io/TechnoMIT-2K18/"
+	},
+	{
         "name": "BioHazard Sound Mod",
         "description": "This is an audio mod that utilizes different sound processing libs and drivers from various OEMs, combined all together, and the result is a very deep modification on how Android processes Audio.",
         "image": "images/biohazard.png",
