@@ -1,7 +1,7 @@
 [
   {
       "name": "TechnoFeed",
-      "description": "A news reader powered by www.newsapi.org developed for android devices running sdk15 (Ice Cream Sandwich) and above. It supports features like - keyword search, sorting by sources, etc.",
+      "description": "A news reader powered by www.newsapi.org developed for android devices running SDK23 (Marshmallow) and above. It supports features like - keyword search, sorting by sources, etc.",
       "image": "images/technofeed.png",
       "link": "https://github.com/anandmore/BTechProject/"
   },
