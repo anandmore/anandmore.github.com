@@ -1,4 +1,10 @@
 [
+  {
+      "name": "TechnoFeed",
+      "description": "A news reader powered by www.newsapi.org developed for android devices running sdk15 (Ice Cream Sandwich) and above. It supports features like - keyword search, sorting by sources, etc.",
+      "image": "images/technofeed.png",
+      "link": "https://github.com/anandmore/BTechProject/"
+  },
     {
         "name": "TechnoMIT-2K18",
         "description": "Website for TechnoMIT-2K18, a state level event, annual technical festival organized by Computer Science and engineering department of Maharashtra Institute of Technology, Aurangabad.",
