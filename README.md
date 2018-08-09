@@ -1,4 +1,4 @@
-# www.iamanandmore.tk
+# www.anandmore.gq
 
 Github repo for Anand More's Website
 
